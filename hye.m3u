@@ -6,13 +6,11 @@ https://m-c15-j2apps.s.llnwi.net/hls/0286.DDSaptagiri.in.m3u8
 #EXTINF:-1 tvg-id="AmgaTV.us" tvg-country="AM" tvg-language="Armenian;English;Russian" tvg-logo="https://i.imgur.com/3vQVwUV.jpg" group-title="General",Amga TV (720p) [Not 24/7]
 https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in.m3u8
 #EXTINF:-1 tvg-id="ArmeniaPremium.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/IxOFvqz.png" group-title="Movies" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Armenia Premium (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=4BcPdYGwmIo
+https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in_360p/index.m3u8
 #EXTINF:-1 tvg-id="ArmeniaHayKino.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/XwbLfqd.png" group-title="Movies" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Armenia Հայ Կինո (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s22/index.m3u8
+https://m-c08-j2apps.s.llnwi.net/hls/0564.ABNTeluguNews.in_360p/index.m3u8
 #EXTINF:-1 tvg-id="ArmeniaJanTV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/AhX46e5.png" group-title="Music" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Armenia Ջան TV (480p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s42/index.m3u8
+https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in_360p/index.m3u8
 #EXTINF:-1 tvg-id="ArmeniaSinemaks.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/fRfGuQg.png" group-title="Movies" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Armenia Սինեմաքս (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s66/index.m3u8
